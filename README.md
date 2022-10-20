@@ -6,7 +6,7 @@
 
 ## Purpose
 
-The contact web application which has CRUD function. A user can add contact with name, phone number and image url.
+The clone coding to get used to redux-toolkit.
 
 ## Environment
 
